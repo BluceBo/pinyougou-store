@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [04/Oct/2019:00:24:16 +0800] "GET /?ticket=ST-1-PM995siikh5zb80gpk0iE33D0Ko-DESKTOP-QAS75JE HTTP/1.1" 302 - http-bio-9001-exec-10 203
+0:0:0:0:0:0:0:1 - - [04/Oct/2019:00:24:17 +0800] "GET /;jsessionid=26597E63ACD211CE7F87E086169E52E8 HTTP/1.1" 200 384 http-bio-9001-exec-10 608
+0:0:0:0:0:0:0:1 - - [04/Oct/2019:00:24:17 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9001-exec-10 2
